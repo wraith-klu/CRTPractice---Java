@@ -1,4 +1,4 @@
-# CRTPractice---Java 🚀
+# CRTPractice — Java 🚀
 
 A collection of **Java programs** created for practicing and strengthening **core programming concepts** commonly asked in **Campus Recruitment Training (CRT)** and technical interviews.
 
@@ -6,7 +6,7 @@ A collection of **Java programs** created for practicing and strengthening **cor
 
 ## 📌 About the Repository
 
-This repository contains beginner-to-intermediate level Java programs covering:
+This repository contains **beginner-to-intermediate level Java programs** covering:
 
 - Arrays & 2D Arrays  
 - Searching Algorithms  
@@ -18,232 +18,175 @@ This repository contains beginner-to-intermediate level Java programs covering:
 - String Problems  
 
 It is ideal for:
+
 - BTech / Engineering students  
 - CRT & placement preparation  
 - Java practice & revision  
 
 ---
 
-✅ Phase 1: Foundation (MUST be strong)
-1️⃣ Arrays & Hashing
+## ✅ Phase 1: Foundation (MUST be strong)
 
-Why first? Base of almost everything.
+### 1️⃣ Arrays & Hashing
+**Why first?** Base of almost everything.  
 
-Topics
+**Topics:**
+- Frequency array / HashMap  
+- Prefix sum  
+- Subarrays  
+- Set vs Map usage  
 
-Frequency array / HashMap
+**Practice:**
+- Two Sum  
+- Subarray Sum Equals K  
+- Majority Element  
 
-Prefix sum
+### 2️⃣ Two Pointers
+**Why?** Optimizes brute force → O(n)  
 
-Subarrays
+**Topics:**
+- Left–Right pointer  
+- Fast–Slow pointer  
+- In-place operations  
 
-Set vs Map usage
+**Practice:**
+- Remove duplicates  
+- Container With Most Water  
+- Palindrome check  
 
-Practice
+### 3️⃣ Stack
+**Very important for interviews**  
 
-Two Sum
+**Topics:**
+- Monotonic Stack  
+- Stack using array  
+- Expression evaluation  
 
-Subarray Sum Equals K
+**Practice:**
+- Valid Parentheses  
+- Next Greater Element  
+- Largest Rectangle in Histogram  
 
-Majority Element
+---
 
-2️⃣ Two Pointers
+## ✅ Phase 2: Core Algorithms
 
-Why? Optimizes brute force → O(n)
+### 4️⃣ Binary Search
+**(Not just on arrays!)**  
 
-Topics
+**Topics:**
+- Binary search on answer  
+- Lower bound / Upper bound  
 
-Left–Right pointer
+**Practice:**
+- First & last occurrence  
+- Search in rotated array  
+- Square root of number  
 
-Fast–Slow pointer
+### 5️⃣ Sliding Window
+**🔥 Frequently asked**  
 
-In-place operations
+**Topics:**
+- Fixed window  
+- Variable window  
 
-Practice
+**Practice:**
+- Longest substring without repeating characters  
+- Max sum subarray of size K  
 
-Remove duplicates
+### 6️⃣ Linked List
+**Conceptual + pointer logic**  
 
-Container With Most Water
+**Practice:**
+- Reverse linked list  
+- Detect cycle  
+- Merge two sorted lists  
 
-Palindrome check
+---
 
-3️⃣ Stack
+## ✅ Phase 3: Trees & Recursion Power
 
-Very important for interviews
+### 7️⃣ Trees
+**High-weight topic**  
 
-Topics
+**Topics:**
+- Traversals (Inorder, Preorder, Postorder)  
+- BFS / DFS  
+- Height, Diameter  
 
-Monotonic Stack
+**Practice:**
+- Level order traversal  
+- Lowest Common Ancestor  
 
-Stack using array
+### 8️⃣ Tries
+**Used in string & prefix problems**  
 
-Expression evaluation
+**Practice:**
+- Implement Trie  
+- Longest prefix match  
 
-Practice
+---
 
-Valid Parentheses
+## ✅ Phase 4: Advanced Patterns
 
-Next Greater Element
+### 9️⃣ Heap / Priority Queue
+**Very common in product companies**  
 
-Largest Rectangle in Histogram
+**Practice:**
+- K largest elements  
+- Merge K sorted arrays  
 
-✅ Phase 2: Core Algorithms
-4️⃣ Binary Search
+### 🔟 Backtracking
+**Brute force with intelligence**  
 
-(Not just on arrays!)
+**Practice:**
+- Permutations  
+- Combinations  
+- N-Queens  
 
-Topics
+---
 
-Binary search on answer
+## ✅ Phase 5: Graphs & Dynamic Programming
 
-Lower bound / Upper bound
+### 1️⃣1️⃣ Graphs
+**🔥 One of the most important topics**  
 
-Practice
+**Topics:**
+- BFS / DFS  
+- Cycle detection  
+- Topological sort  
 
-First & last occurrence
+**Practice:**
+- Number of islands  
+- Course schedule  
 
-Search in rotated array
+### 1️⃣2️⃣ Dynamic Programming
+**Start slow, don’t rush.**  
 
-Square root of number
+**1-D DP:**
+- Fibonacci  
+- Climbing stairs  
+- House robber  
 
-5️⃣ Sliding Window
+**2-D DP:**
+- LCS  
+- Knapsack  
+- Grid paths  
 
-🔥 Frequently asked
+---
 
-Topics
+## ✅ Phase 6: Finishing Touch
 
-Fixed window
+### 1️⃣3️⃣ Greedy
+- Activity selection  
+- Interval scheduling  
 
-Variable window
+### 1️⃣4️⃣ Bit Manipulation
+- XOR tricks  
+- Power of two  
+- Single number  
 
-Practice
-
-Longest substring without repeating characters
-
-Max sum subarray of size K
-
-6️⃣ Linked List
-
-Conceptual + pointer logic
-
-Practice
-
-Reverse linked list
-
-Detect cycle
-
-Merge two sorted lists
-
-✅ Phase 3: Trees & Recursion Power
-7️⃣ Trees
-
-High-weight topic
-
-Topics
-
-Traversals (Inorder, Preorder, Postorder)
-
-BFS / DFS
-
-Height, Diameter
-
-Practice
-
-Level order traversal
-
-Lowest Common Ancestor
-
-8️⃣ Tries
-
-Used in string & prefix problems
-
-Practice
-
-Implement Trie
-
-Longest prefix match
-
-✅ Phase 4: Advanced Patterns
-9️⃣ Heap / Priority Queue
-
-Very common in product companies
-
-Practice
-
-K largest elements
-
-Merge K sorted arrays
-
-🔟 Backtracking
-
-Brute force with intelligence
-
-Practice
-
-Permutations
-
-Combinations
-
-N-Queens
-
-✅ Phase 5: Graphs & Dynamic Programming
-1️⃣1️⃣ Graphs
-
-🔥 One of the most important topics
-
-Topics
-
-BFS / DFS
-
-Cycle detection
-
-Topological sort
-
-Practice
-
-Number of islands
-
-Course schedule
-
-1️⃣2️⃣ Dynamic Programming
-
-Start slow, don’t rush.
-
-➤ 1-D DP
-
-Fibonacci
-
-Climbing stairs
-
-House robber
-
-➤ 2-D DP
-
-LCS
-
-Knapsack
-
-Grid paths
-
-✅ Phase 6: Finishing Touch
-1️⃣3️⃣ Greedy
-
-Activity selection
-
-Interval scheduling
-
-1️⃣4️⃣ Bit Manipulation
-
-XOR tricks
-
-Power of two
-
-Single number
-
-1️⃣5️⃣ Math & Geometry
-
-GCD / LCM
-
-Prime sieve
-
-Coordinate geometry basics
+### 1️⃣5️⃣ Math & Geometry
+- GCD / LCM  
+- Prime sieve  
+- Coordinate geometry basics  
